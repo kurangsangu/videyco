@@ -1,0 +1,6 @@
+{
+  "name": "VideyPlayer Studio - Streaming & Video Player",
+  "description": "Landing page video player responsif dengan kustomisasi tema, pemutar video MP4 Videyco, playlist, dan pengaturan autoplay interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
